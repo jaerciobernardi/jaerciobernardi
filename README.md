@@ -1,5 +1,5 @@
 <h1>Olá! 👋</h1>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaercio-bernardi-de-moura-262193232/)](https://www.linkedin.com/in/jaercio-bernardi-de-moura-262193232/)
+[![Linkedin Badge]([https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white](https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg)&link=https://www.linkedin.com/in/jaercio-bernardi-de-moura-262193232/)](https://www.linkedin.com/in/jaercio-bernardi-de-moura-262193232/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaerciobernardi.007@gmail.com)](mailto:jaerciobernardi.007@gmail.com)
 ## Me chamo Jaércio Bernardi
 (Java | Spring Boot | Javascript | HTML | CSS ) 🚀
