@@ -1,7 +1,7 @@
 <h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou Jaércio Bernardi</h1>
 
 <!--( Java | Spring Boot | Javascript | HTML | CSS ) 🚀<br>-->
-- 🎓 Gestão de TI @ [UNIFACVEST](https://www.unifacvest.edu.br/)
+- 🎓 Graduado em Gestão de TI @ [UNIFACVEST](https://www.unifacvest.edu.br/)
 - 🎓 Técnico em Informática - IEEPI
 
 
