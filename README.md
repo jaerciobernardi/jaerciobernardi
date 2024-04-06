@@ -1,6 +1,5 @@
 <h1>Olá! 👋</h1>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaerciobernardi.007@gmail.com)](mailto:jaerciobernardi.007@gmail.com)
+
 ## Me chamo Jaércio Bernardi
 (Java | Spring Boot | Javascript | HTML | CSS ) 🚀
 - 🎓 Gestão de TI @ [UNIFACVEST](https://www.unifacvest.edu.br/)
