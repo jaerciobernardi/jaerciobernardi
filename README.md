@@ -1,7 +1,7 @@
 <h1>Olá! 👋</h1>
 
 ## Me chamo Jaércio Bernardi
-(Java | Spring Boot | Javascript | HTML | CSS ) 🚀
+( Java | Spring Boot | Javascript | HTML | CSS ) 🚀
 - 🎓 Gestão de TI @ [UNIFACVEST](https://www.unifacvest.edu.br/)
 - 🎓 Técnico em Informática - [IEEPI]
 
