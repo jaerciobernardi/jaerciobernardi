@@ -1,6 +1,6 @@
 <h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou Jaércio Bernardi</h1>
 
-( Java | Spring Boot | Javascript | HTML | CSS ) 🚀<br>
+<!--( Java | Spring Boot | Javascript | HTML | CSS ) 🚀<br>-->
 - 🎓 Gestão de TI @ [UNIFACVEST](https://www.unifacvest.edu.br/)
 - 🎓 Técnico em Informática - IEEPI
 
@@ -12,7 +12,7 @@
   <img align="center" alt="Jaercio-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Jaercio-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Jaercio-bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-  <img align="center" alt="Jaercio-Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img align="center" alt="Jaercio-Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">🚀
 </div>
 
           
@@ -26,8 +26,6 @@
   <a href = "mailto:cjaerciobernardi.007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
-
-https://github-readme-stats.vercel.app/api/top-langs/?username={jaerciobernardi}&theme=blue-green
 
 <!--
 **jaerciobernardi/jaerciobernardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
