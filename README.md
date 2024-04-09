@@ -7,7 +7,7 @@
 <h2></h2>
 <div style="display: inline_block">
 🚀&nbspTech Skills: <br><br>
-  <img align="center" alt="Jaercio-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp
+ <!-- <img align="center" alt="Jaercio-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp
   <img align="center" alt="Jaercio-Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp
   <img align="center" alt="Jaercio-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">&nbsp
   <img align="center" alt="Jaercio-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp
@@ -15,16 +15,24 @@
   <img align="center" alt="Jaercio-bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">&nbsp
   <img align="center" alt="Jaercio-Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">&nbsp
 </div>
+-->
 
           
-
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,html,css,bash,git,vscode,ps&perline=5)](https://skillicons.dev)
 
   
   ##
  
 <div> 
+📧&nbspContact: <br><br>
+  
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaerciobernardi)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:cjaerciobernardi.007@gmail.com)
+
+  <!--
   <a href="https://www.linkedin.com/in/jaercio-bernardi-de-moura-262193232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp
   <a href = "mailto:cjaerciobernardi.007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  -->
   
 </div>
 
